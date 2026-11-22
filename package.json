@@ -1,0 +1,9 @@
+{
+  "name": "biljeznica",
+  "version": "1.0.0",
+  "description": "Konzolna bilježnica zadataka",
+  "type": "module",
+  "scripts": {
+    "start": "node glavni.js"
+  }
+}
