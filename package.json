@@ -4,6 +4,10 @@
   "description": "Konzolna bilježnica zadataka",
   "type": "module",
   "scripts": {
-    "start": "node glavni.js"
+    "start": "node glavni.js",
+    "dodaj": "node glavni.js dodaj ",
+    "popis": "node glavni.js popis",
+    "gotovo": "node glavni.js gotovo"
+  
   }
 }

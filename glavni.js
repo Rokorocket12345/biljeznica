@@ -1,5 +1,7 @@
 import { ucitajZadatke, spremiZadatke } from "./pohrana.js";
 
+//Npm run -s -- tekst
+
 function pogreska(poruka) {
     console.error(poruka);
     process.exit(1);
