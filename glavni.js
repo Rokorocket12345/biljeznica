@@ -1,6 +1,7 @@
 import { ucitajZadatke, spremiZadatke } from "./pohrana.js";
 
 //Npm run -s -- tekst
+//Npm run start za pocetak i listu naredbi 
 
 function pogreska(poruka) {
     console.error(poruka);
